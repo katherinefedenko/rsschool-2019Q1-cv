@@ -1,5 +1,4 @@
-<center>CV Ekaterina Fedenko</center>
-=========================================
+# <center> CV Ekaterina Fedenko</center>
 
 Contacts
 -----------------
@@ -34,14 +33,14 @@ Contacts
 * **HTML, CSS**:
     * [Project](https://github.com/katherinefedenko/LuxOptics)
 
-##Education
-* Student of _BSUIR_: **2017-2021**
+##  Education: ##
+* Student of **BSUIR**: **2017-2021**
     * **Faculty**: Information Technologies and Control.
     * **Speciality**: Artificial Intelligence.
-* English courses: _International House_.
+* English courses: **International House**.
 
-##English level:
-* Studied at _International House_. 
+## English level: ##
+* Studied at **International House**. 
 * **Level**: B2 - C1.
 
 
