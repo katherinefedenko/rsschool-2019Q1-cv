@@ -1,6 +1,7 @@
-#CV Ekaterina Fedenko#
-
-##Contacts
+CV Ekaterina Fedenko
+====================
+Contacts
+--------
 * **Telegram / Viber**: +375 29 828 95 48
 * **Velcom**: +375 29 934 50 08
 * **Skype**: fedenko29@mail.ru
@@ -22,20 +23,24 @@
 * Photoshop
 
 ##Experience:
-* [Codecademy](https://www.codecademy.com/users/katherine_fedenko/achievements)
-* [Htmlacademy](https://htmlacademy.ru/profile/id847533/achievements)
-* [Codewars](https://www.codewars.com/users/katherinefedenko)
-* [Project](https://github.com/katherinefedenko/LuxOptics)
+* **HTML, CSS, Git, Command line**:
+    * [Codecademy](https://www.codecademy.com/users/katherine_fedenko/achievements)
+* **HTML, CSS**:
+    * [Htmlacademy](https://htmlacademy.ru/profile/id847533/achievements)
+* **JavaScript**:
+    * [Codewars](https://www.codewars.com/users/katherinefedenko)
+* **HTML, CSS**:
+    * [Project](https://github.com/katherinefedenko/LuxOptics)
 
 ##Education
-* Student of BSUIR: **2017-2021**
+* Student of _BSUIR_: **2017-2021**
     * **Faculty**: Information Technologies and Control.
     * **Speciality**: Artificial Intelligence.
-* English courses: International House.
+* English courses: _International House_.
 
 ##English level:
-* Studied at International House. 
-* Level: B2 - C1.
+* Studied at _International House_. 
+* **Level**: B2 - C1.
 
 
  
