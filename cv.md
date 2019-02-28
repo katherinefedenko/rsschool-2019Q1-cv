@@ -23,7 +23,7 @@ Contacts
 * C++
 * Photoshop
 
-## Experience: ##
+## Experience and example of code: ##
 * **HTML, CSS, Git, Command line**:
     * [Codecademy](https://www.codecademy.com/users/katherine_fedenko/achievements)
 * **HTML, CSS**:
