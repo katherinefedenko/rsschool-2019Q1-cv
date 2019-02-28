@@ -1,7 +1,7 @@
-#CV Ekaterina Fedenko
+#CV Ekaterina Fedenko#
 
 ##Contacts
-* **Telegram / Viber***: +375 29 828 95 48
+* **Telegram / Viber**: +375 29 828 95 48
 * **Velcom**: +375 29 934 50 08
 * **Skype**: fedenko29@mail.ru
 * **Mail**: katyafedenko29@gmail.com
@@ -12,7 +12,7 @@
 * My strong point is time management, therefore I am able to keep deadlines successfully.
 * A quick learner. Enjoy learning new things and always ready to improve my skills. 
 
-##Skils:
+##Skills:
 * HTML
 * CSS
 * JavaScript
@@ -28,14 +28,14 @@
 * [Project](https://github.com/katherinefedenko/LuxOptics)
 
 ##Education
-* BSUIR: **2017-2021**
-    * Faculty: Information Technologies and Control.
-    * Speciality: Artificial Intelligence.
+* Student of BSUIR: **2017-2021**
+    * **Faculty**: Information Technologies and Control.
+    * **Speciality**: Artificial Intelligence.
 * English courses: International House.
 
 ##English level:
-Studied english at International House. 
-Level: B2 - C1.
+* Studied at International House. 
+* Level: B2 - C1.
 
 
  
