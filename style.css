@@ -1,0 +1,34 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    font-family: 'Raleway', sans-serif;
+}
+.wrap-all-content {
+    background-color: #FFF2B9;
+}
+.main-wrapper {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+h1,
+h2 {
+    text-align: center;
+}
+header {
+    background-color: #331907;
+    color: #fff;
+}
+.photo {
+    margin: 0 auto;
+    width: 250px;
+}
+img{
+    width: 250px;
+}
+.contacts-photo-wrap {
+    display: flex;
+    justify-content: flex-start;
+}
+li {
+    line-height: 40px;
+}
